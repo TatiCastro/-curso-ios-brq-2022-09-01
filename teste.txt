@@ -18,3 +18,5 @@ git clone + o link do repositório
  // git push para enviar do rep local para remoto
  git commit  -m " mensagem "para enviar para o rep local
   // cd : volta pasta
+  
+  // teste de edição de arquivo - alteração por interface gráfica
